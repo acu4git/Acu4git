@@ -9,6 +9,6 @@
     </i><br>
     <a href=https://atcoder.jp/users/Acu>
         <img src=https://media.tenor.com/st4y7eXAnrIAAAAC/shaun-the.gif alt="Timmy">
-    </a>
+    </a><br>
     <b>Dance with Timmy.</b><br>
 </p>
