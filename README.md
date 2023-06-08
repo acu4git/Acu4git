@@ -10,9 +10,3 @@
         <img src=https://media.tenor.com/st4y7eXAnrIAAAAC/shaun-the.gif alt="Timmy">
     </a>
 </p>
-
-### Languages
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
