@@ -7,7 +7,7 @@
         <br>
     </i><br>
     <a href=https://atcoder.jp/users/Acu>
-        <img src=https://img.atcoder.jp/assets/top/img/logo_bk.svg alt="Atcoder">
+        <img src=https://media.tenor.com/st4y7eXAnrIAAAAC/shaun-the.gif alt="Timmy">
     </a>
 </p>
 
