@@ -10,5 +10,5 @@
     <a href=https://atcoder.jp/users/Acu>
         <img src=https://media.tenor.com/st4y7eXAnrIAAAAC/shaun-the.gif alt="Timmy">
     </a><br>
-    <b>Dance with Timmy.</b><br>
+    <b>Let's dance with Timmy.</b><br>
 </p>
