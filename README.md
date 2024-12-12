@@ -1,14 +1,1 @@
-<h1 align="center">こんにちは！💦</h1>
-
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Eishu.<br>
-        ↓ ↓ ↓
-        <br>
-    </i><br>
-    <a href=https://atcoder.jp/users/Acu>
-        <img src=https://media.tenor.com/st4y7eXAnrIAAAAC/shaun-the.gif alt="Timmy">
-    </a><br>
-    <b>Let's dance with Timmy.</b><br>
-</p>
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={username})](https://github.com/anuraghazra/github-readme-stats)
