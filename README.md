@@ -1,7 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acu4git&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=acu4git&theme=tokyonight" />
-</a>
+   <img align="left" src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+</p>
